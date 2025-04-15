@@ -19,7 +19,7 @@ With RoniaKit, you can create visually engaging and highly customizable interfac
 - **Cross-Platform Support** – Works on Linux, macOS, and Windows.
 
 ## How to Use
-To add RoniaKit to your project, you can use it as a Git submodule and include it in your CMake configuration.
+RoniaKit can be included in your project using **CMake** or **QMake**. Instructions for both build systems are provided below.
 
 ### Adding as a Git Submodule
 ```sh
@@ -40,6 +40,12 @@ add_subdirectory(external/RoniaKit) # <-
 
 target_link_libraries(appTarget PRIVATE RoniaKit RoniaKitGauges) # <-
 ```
+
+### Integrating with QMake
+If you are using QMake, follow these steps described in `include/qmake includes/QMake Setup.md`
+
+
+---
 
 ## Usage
 To use a gauge component, simply import the library in your QML file and set its properties as needed:

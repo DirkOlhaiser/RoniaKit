@@ -1,0 +1,22 @@
+module RoniaKit
+HalfDial 1.0 Gauges/HalfDial.qml
+Thermometer 1.0 Gauges/Thermometer.qml
+RoniaControl 1.0 Gauges/RoniaControl.qml
+CircularGauge 1.0 Gauges/CircularGauge.qml
+RangeControl 1.0 Gauges/RangeControl.qml
+FuelGauge 1.0 Gauges/FuelGauge.qml
+LevelGauge 1.0 Gauges/LevelGauge.qml
+CircularBasicGauge 1.0 Gauges/CircularBasicGauge.qml
+CircularGaugeStyle 1.0 Gauges/Style/CircularGaugeStyle.qml
+RoniaControlStyle 1.0 Gauges/Style/RoniaControlStyle.qml
+FuelGaugeStyle 1.0 Gauges/Style/FuelGaugeStyle.qml
+LevelGaugeStyle 1.0 Gauges/Style/LevelGaugeStyle.qml
+CircularBasicGaugeStyle 1.0 Gauges/Style/CircularBasicGaugeStyle.qml
+CircularModernGauge1 1.0 Gauges/Extra/CircularModernGauge1.qml
+CircularModernGauge1Style 1.0 Gauges/Extra/Style/CircularModernGauge1Style.qml
+CircularSpeedGauge 1.0 Gauges/Extra/CircularSpeedGauge.qml
+CircularSpeedGaugeStyle 1.0 Gauges/Extra/Style/CircularSpeedGaugeStyle.qml
+CircularAnalogGauge 1.0 Gauges/Extra/CircularAnalogGauge.qml
+CircularAnalogGaugeStyle 1.0 Gauges/Extra/Style/CircularAnalogGaugeStyle.qml
+CircularModernGauge2 1.0 Gauges/Extra/CircularModernGauge2.qml
+CircularModernGauge2Style 1.0 Gauges/Extra/Style/CircularModernGauge2Style.qml
